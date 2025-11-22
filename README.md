@@ -1,7 +1,5 @@
 # Hi I'm Jeffry
 
-![Jeffry Animated](https://raw.githubusercontent.com/jeffry10/jeffry10/main/f2099106-138e-4b9c-ba52-f57c18153ce1.png)
-
 Junior Full-Stack Developer  
 Always learning building projects and improving skills
 
