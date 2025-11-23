@@ -1,8 +1,4 @@
 # Hi I'm Jeffry
-
-Junior Full-Stack Developer  
-Always learning building projects and improving skills
-
 ---
 
 ## Stack
